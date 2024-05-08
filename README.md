@@ -1,5 +1,5 @@
 # Simple-Canon-game_Unity-Engine
-
+This group project focuses on the "Game Physics" course, where we explore a wide range of complex physics simulations, such as projectile motion, rigid body dynamics, gravity, collision dynamics, and velocity mechanics.
 ##  How to Run the Game
 1.  Clone the Repository
    ```bash

@@ -1,1 +1,0 @@
-This is simple canon game made in unity 
